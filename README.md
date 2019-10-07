@@ -1,3 +1,6 @@
+# **Design Document: Blackjack**
+### **Author: Austin Ho**
+
 # **1.1: Getting Started**
  
 Welcome to the game of Blackjack! In order to play the game, you have to download the file **blackjack1.py** from my GitHub repository and put it into a folder on your desktop. Next, type **cd ~/Desktop/(insert folder name)** in the terminal. To run the program, type **python3 blackjack1.py**. Now, get ready to have some fun with the game!
